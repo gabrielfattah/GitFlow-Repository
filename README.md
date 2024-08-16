@@ -2,5 +2,6 @@ version 0.1
 initial commit on develop
 initial commit on feature-1.0
 finished feature 1.0 
-Initial commit for release : Start of release 1.0 
-small bug fixed and last touch up before release 1.0 
+merge from develop for release-2.0
+continuous work on feature-1.0
+feature-1.0 finished and ready to be merged into develop 
