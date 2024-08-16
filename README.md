@@ -1,3 +1,4 @@
 version 0.1 
 initial commit on develop
-bugfix merged into branch develop
+initial commit on feature-1.0
+finished feature 1.0 
